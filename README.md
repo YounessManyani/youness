@@ -7,7 +7,7 @@ Je suis Youness Manyani, un passionné de technologie et développeur full stack
 - **Développement Frontend:** React.js, Vue.js, TypeScript
 - **Développement Backend:** Node.js, C#
 - **Base de Données:** MongoDB, MySQL, SQL Server
-- **Déploiement et Infrastructure:** AWS, Docker 
+- **Déploiement et Infrastructure:** AWS, Docker ,Azure
 
 ### 🌱 Apprentissage en Cours
 
